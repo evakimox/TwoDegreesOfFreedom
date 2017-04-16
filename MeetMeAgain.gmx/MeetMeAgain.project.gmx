@@ -9,14 +9,17 @@
     <sprite>sprites\spr_floorSakura</sprite>
     <sprite>sprites\spr_floorSnowflake</sprite>
     <sprite>sprites\spr_floorMaple</sprite>
+    <sprite>sprites\spr_shiro</sprite>
   </sprites>
   <backgrounds name="background"/>
   <paths name="paths"/>
   <objects name="objects">
     <object>objects\obj_Flowerfloor</object>
+    <object>objects\obj_rmctrl</object>
   </objects>
   <rooms name="rooms">
     <room>rooms\rm_laby</room>
+    <room>rooms\rm_stage0</room>
   </rooms>
   <help>
     <rtf>help.rtf</rtf>
