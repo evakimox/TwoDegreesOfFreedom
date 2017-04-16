@@ -13,10 +13,10 @@
   <backgrounds name="background"/>
   <paths name="paths"/>
   <objects name="objects">
-    <object>objects\obj_floor</object>
+    <object>objects\obj_Flowerfloor</object>
   </objects>
   <rooms name="rooms">
-    <room>rooms\rm_stage0</room>
+    <room>rooms\rm_laby</room>
   </rooms>
   <help>
     <rtf>help.rtf</rtf>
